@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "cssTheme": "AnuPpuccin",
+  "enabledCssSnippets": [
+    "color-extend"
+  ],
+  "textFontFamily": "Pretendard",
+  "interfaceFontFamily": "Pretendard",
+  "monospaceFontFamily": "Pretendard",
+  "baseFontSize": 16
+}
