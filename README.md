@@ -43,7 +43,7 @@ It's be-garam's personal boilerplate for PKM base on obsidian
 > 개념들을 담아둔 폴더로, 각 파일들은 그 자체로 완전해야 합니다.
 
 **Concept.md**
-- 개념에 대해서 정리되어 있는 파일로 정형화된 구조를 따릅니다.([Template for Resource.md](./Template/Template for Resource.md))
+- 개념에 대해서 정리되어 있는 파일로 정형화된 구조를 따릅니다.: [Template_for_Resource.md](./Template/Template_for_Resource.md)
 
 ### Source
 > 모든 md 파일에 들어가는 이미지, 파일 소스들을 저장해두는 폴더입니다.
